@@ -1,0 +1,31 @@
+h1 {
+    color: fuchsia ;
+    background-color: yellow;
+}
+
+html {
+    background-color: #6b86b2;
+    background-image: url("puppy.jpg");
+    background-size: cover;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+#first {
+    font-weight: bold;
+    background-image: url("http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg");
+
+    width: 654px;
+    height: 436px;
+}
+
+.font {
+    font-family: Baloo, Helvetica, "Courier New", sans-serif;
+}
